@@ -12,3 +12,7 @@
 string namn = "Kalle";
 int ålder = 30;
 Console.WriteLine($"Hej , jag heter {namn} och jag är {ålder} år gammak.");
+
+string namn = "Hanna";
+int ålder = 35;
+Console.WriteLine($"Hej, {namn} är du {ålder} år gammal?");
